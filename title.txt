@@ -1,0 +1,7 @@
+---
+title: Learn Go with Tests
+author: Chris James
+rights:  MIT License
+lang: en-UK
+cover-image: epub-cover.png
+...
